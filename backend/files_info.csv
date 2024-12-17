@@ -1,0 +1,4 @@
+﻿content_id,directory_id,file_path_pc,file_url,licenses,lang,star_count
+a,a,backend/git_files/spectrogram.py,https://github.com/fishaudio/fish-speech/blob/main/fish_speech/utils/spectrogram.py,Attribution-NonCommercial-ShareAlike 4.0 International,python,13700
+b,b,backend/git_files/file.py,https://github.com/fishaudio/fish-speech/blob/main/fish_speech/utils/file.py,Attribution-NonCommercial-ShareAlike 4.0 International,python,13700
+c,c,backend/git_files/TestsUtils.java,https://github.com/kestra-io/kestra/blob/develop/tests/src/main/java/io/kestra/core/utils/TestsUtils.java,Apache-2.0 license,java,12500
